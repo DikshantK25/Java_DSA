@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_ArrayLIst/Arrays_ArrayLIst.iml" filepath="$PROJECT_DIR$/Arrays_ArrayLIst/Arrays_ArrayLIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise_Operator/Bitwise_Operator.iml" filepath="$PROJECT_DIR$/Bitwise_Operator/Bitwise_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals-Loops/Conditionals-Loops.iml" filepath="$PROJECT_DIR$/Conditionals-Loops/Conditionals-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First-Java-Program/First-Java-Program.iml" filepath="$PROJECT_DIR$/First-Java-Program/First-Java-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-DSA-BootCamp.iml" filepath="$PROJECT_DIR$/.idea/JAVA-DSA-BootCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
