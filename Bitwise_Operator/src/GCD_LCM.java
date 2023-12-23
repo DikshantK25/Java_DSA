@@ -4,9 +4,7 @@ public class GCD_LCM {
         int b=120;
         System.out.println(gcd(a,b));
     }
-
-    
-    static int gcd(int a,int b){
+        static int gcd(int a,int b){
         if(a == 0){
             return b;
         }
