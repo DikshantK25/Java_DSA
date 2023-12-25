@@ -1,3 +1,4 @@
+//Euclindean Algorithm
 package BasicMath;
 
 public class GCDHCM {
