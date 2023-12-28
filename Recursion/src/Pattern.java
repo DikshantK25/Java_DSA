@@ -1,84 +1,76 @@
-import java.lang.*;
-import java.util.*;
+
+
+import java.util.Arrays;
 
 public class Pattern {
     public static void main(String[] args) {
-     
-        // int row =5;
-        // int col =0;
-        // printStar1(row ,col);
-        int[] arr = {10,9,8,7,6,5,4,3,2,1,0};
-        bubbleSort(arr, arr.length-1, 0);
+        //        triangle2(4, 0);
+        int[] arr = {1, 4, 3, 5};
+        selection(arr, arr.length, 0, 0);
         System.out.println(Arrays.toString(arr));
     }
 
-
-    static void printStar1(int row,int col) {
-
-           // *****
-           // ****
-           // ***
-           // **
-           // *
-        if(row == 0){
+    static void triangle2(int r, int c) {
+        if (r == 0) {
             return;
         }
-       if(col < row){
-        System.out.print("*");
-        printStar1(row,col+1);
-       }else{
-        System.out.println();
-        printStar1(row-1,0);
-       }
+        if (c < r) {
+            triangle2(r, c+1);
+            System.out.print("*");
+        } else {
+            triangle2(r-1, 0);
+            System.out.println();
+        }
     }
 
-    static void printStar2(int row,int col) {
-          // *
-          // **
-          // ***
-          // ****
-          // *****
-        if(row == 0){
+    static void triangle(int r, int c) {
+        if (r == 0) {
             return;
         }
-       if(col < row){
-        printStar2(row,col+1);
-        System.out.print("*");
-
-       }else{
-        printStar2(row-1,0);
-          System.out.println();
-
-       }
+        if (c < r) {
+            System.out.print("*");
+            triangle(r, c+1);
+        } else {
+            System.out.println();
+            triangle(r-1, 0);
+        }
     }
 
 
-       static void bubbleSort(int[] arr, int row,int col) {
-         
-        if(row == 0){
+    static void bubble(int[] arr, int r, int c) {
+        if (r == 0) {
             return;
         }
-        
-       if(col < row){
+        if (c < r) {
 
-       if(arr[col]> arr[col+1]){   
-         
-        int tmp = arr[col];
-        arr[col] = arr[col+1];
-        arr[col+1] = tmp;
+            if (arr[c] > arr[c+1]) {
+                // swap
+                int temp = arr[c];
+                arr[c] = arr[c+1];
+                arr[c+1] = temp;
+            }
 
-       }
-
-        bubbleSort(arr, row,col+1);
-
-       }else{
-
-        bubbleSort(arr,row-1,0);
-
-       }
-       
+            bubble(arr, r, c+1);
+        } else {
+            bubble(arr, r-1, 0);
+        }
     }
-    //selection sort Homework
 
-
+    static void selection(int[] arr, int r, int c, int max) {
+        if (r == 0) {
+            return;
+        }
+        if (c < r) {
+            if (arr[c] > arr[max]) {
+                selection(arr, r, c+1, c);
+            } else {
+                selection(arr, r, c+1, max);
+            }
+        } else {
+            int temp = arr[max];
+            arr[max] = arr[r-1];
+            arr[r-1] = temp;
+            selection(arr, r-1, 0, 0);
+        }
+    }
 }
