@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fe32d009-f44b-4492-bf4f-2ccb8182cd54" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitwise_Operator/src/Factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bitwise_Operator/src/Factor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/src/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/src/MergeSortInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/src/MergeSortInPlace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="Sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern" />
       <module name="Recursion" />
@@ -52,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.Pattern" />
       </list>
     </recent_temporary>
@@ -82,22 +89,31 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Recursion/src/Pattern.java</url>
+          <url>file://$PROJECT_DIR$/Sorting/src/MergeSort.java</url>
           <line>3</line>
-          <properties class="Pattern" method="main">
+          <properties class="MergeSort" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Recursion/src/Pattern.java</url>
-          <line>33</line>
-          <properties class="Pattern" method="printStar2">
+          <url>file://$PROJECT_DIR$/Sorting/src/MergeSort.java</url>
+          <line>24</line>
+          <properties class="MergeSort" method="merge">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Sorting/src/MergeSort.java</url>
+          <line>12</line>
+          <properties class="MergeSort" method="mergesort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
