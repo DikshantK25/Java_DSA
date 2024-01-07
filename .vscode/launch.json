@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Q3",
             "request": "launch",
+            "mainClass": "Recursion3.Q3",
+            "projectName": "Java_DSA_945320ac"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Recursion3.Q2",
+            "projectName": "Java_DSA_945320ac"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Recursion3.Q1",
+            "projectName": "Java_DSA_945320ac"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
             "mainClass": "Recursion2BascicQuestions.Q3",
             "projectName": "Java_DSA_945320ac"
         },
