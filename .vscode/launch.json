@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Recursion4.Q1",
+            "projectName": "Java_DSA_945320ac"
+        },
+        {
+            "type": "java",
             "name": "Q3",
             "request": "launch",
             "mainClass": "Recursion3.Q3",
