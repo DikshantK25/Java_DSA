@@ -1,217 +1,259 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Q1",
-            "request": "launch",
-            "mainClass": "Recursion4.Q1",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Q3",
-            "request": "launch",
-            "mainClass": "Recursion3.Q3",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Q2",
-            "request": "launch",
-            "mainClass": "Recursion3.Q2",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Q1",
-            "request": "launch",
-            "mainClass": "Recursion3.Q1",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Q3",
-            "request": "launch",
-            "mainClass": "Recursion2BascicQuestions.Q3",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Q1",
-            "request": "launch",
-            "mainClass": "Recursion2BascicQuestions.Q1",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Q2",
-            "request": "launch",
-            "mainClass": "Recursion2BascicQuestions.Q2",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "LinearSearch",
-            "request": "launch",
-            "mainClass": "Arrays.LinearSearch",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "RotataryBS",
-            "request": "launch",
-            "mainClass": "Arrays.RotataryBS",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Sorted",
-            "request": "launch",
-            "mainClass": "Arrays.Sorted",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "BS",
-            "request": "launch",
-            "mainClass": "BS",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "BubbleSort",
-            "request": "launch",
-            "mainClass": "BubbleSort",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "CountSteps",
-            "request": "launch",
-            "mainClass": "CountSteps",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "CyclicSort",
-            "request": "launch",
-            "mainClass": "CyclicSort",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Factorial",
-            "request": "launch",
-            "mainClass": "Factorial",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Fibo",
-            "request": "launch",
-            "mainClass": "Fibo",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "InsertionSort",
-            "request": "launch",
-            "mainClass": "InsertionSort",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "MergeSort",
-            "request": "launch",
-            "mainClass": "MergeSort",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Message",
-            "request": "launch",
-            "mainClass": "Message",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "MessageRecursion",
-            "request": "launch",
-            "mainClass": "MessageRecursion",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "NumDigits",
-            "request": "launch",
-            "mainClass": "NumDigits",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "NumbersExample",
-            "request": "launch",
-            "mainClass": "NumbersExample",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "NumbersExampleRecursion",
-            "request": "launch",
-            "mainClass": "NumbersExampleRecursion",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "Pattern",
-            "request": "launch",
-            "mainClass": "Pattern",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "PrintValue",
-            "request": "launch",
-            "mainClass": "PrintValue",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "ProductDigit",
-            "request": "launch",
-            "mainClass": "ProductDigit",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "SelectionSort",
-            "request": "launch",
-            "mainClass": "SelectionSort",
-            "projectName": "Java_DSA_945320ac"
-        },
-        {
-            "type": "java",
-            "name": "rev",
-            "request": "launch",
-            "mainClass": "rev",
-            "projectName": "Java_DSA_945320ac"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "HashmapFile.Main",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Hashmap.Main",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Recursion4.Example",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q4",
+      "request": "launch",
+      "mainClass": "Recursion4.Q4",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q3",
+      "request": "launch",
+      "mainClass": "Recursion4.Q3",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q2",
+      "request": "launch",
+      "mainClass": "Recursion4.Q2",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q1",
+      "request": "launch",
+      "mainClass": "Recursion4.Q1",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q3",
+      "request": "launch",
+      "mainClass": "Recursion3.Q3",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q2",
+      "request": "launch",
+      "mainClass": "Recursion3.Q2",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q1",
+      "request": "launch",
+      "mainClass": "Recursion3.Q1",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q3",
+      "request": "launch",
+      "mainClass": "Recursion2BascicQuestions.Q3",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q1",
+      "request": "launch",
+      "mainClass": "Recursion2BascicQuestions.Q1",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Q2",
+      "request": "launch",
+      "mainClass": "Recursion2BascicQuestions.Q2",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "Arrays.LinearSearch",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "RotataryBS",
+      "request": "launch",
+      "mainClass": "Arrays.RotataryBS",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Sorted",
+      "request": "launch",
+      "mainClass": "Arrays.Sorted",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "BS",
+      "request": "launch",
+      "mainClass": "BS",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "CountSteps",
+      "request": "launch",
+      "mainClass": "CountSteps",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "CyclicSort",
+      "request": "launch",
+      "mainClass": "CyclicSort",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Fibo",
+      "request": "launch",
+      "mainClass": "Fibo",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Message",
+      "request": "launch",
+      "mainClass": "Message",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "MessageRecursion",
+      "request": "launch",
+      "mainClass": "MessageRecursion",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "NumDigits",
+      "request": "launch",
+      "mainClass": "NumDigits",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "NumbersExample",
+      "request": "launch",
+      "mainClass": "NumbersExample",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "NumbersExampleRecursion",
+      "request": "launch",
+      "mainClass": "NumbersExampleRecursion",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "PrintValue",
+      "request": "launch",
+      "mainClass": "PrintValue",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "ProductDigit",
+      "request": "launch",
+      "mainClass": "ProductDigit",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "Java_DSA_945320ac"
+    },
+    {
+      "type": "java",
+      "name": "rev",
+      "request": "launch",
+      "mainClass": "rev",
+      "projectName": "Java_DSA_945320ac"
+    }
+  ]
 }
